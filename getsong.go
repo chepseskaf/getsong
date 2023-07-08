@@ -19,8 +19,8 @@ import (
 	"time"
 
 	"github.com/bogem/id3v2"
-	"github.com/iawia002/annie/extractors/types"
-	"github.com/iawia002/annie/extractors/youtube"
+	"github.com/iawia002/lux/downloader/types"
+	"github.com/iawia002/lux/extractors/youtube"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog"
 	log "github.com/schollz/logger"
